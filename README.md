@@ -1,16 +1,17 @@
 ![Cover](./.github/cover.png)
 
-# NLW Expert (React)
+# San Notes (NLW Expert React)
 
-Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
+This application was developed during Rocketseat's NLW Experts using React, TypeScript, Tailwind and the SpeechRecognition API.
 
-## Executando
 
-Após clonar o repositório, acesse a pasta do projeto e execute os comandos abaixo:
+## Running
+
+After cloning the repository, access the project folder and execute the commands below:
 
 ```sh
 npm install
 npm run dev
 ```
 
-Acesse http://localhost:5173 para visualizar a aplicação.
+Visit http://localhost:5173 to view the app.
